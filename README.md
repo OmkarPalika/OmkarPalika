@@ -42,8 +42,9 @@ final number and scoring it with signal temporal logic, and ARC-AGI evaluation r
 
 ### Currently
 
-Associate Developer at National Compliance, working in Next.js. Final-year B.Tech CSE
-at ANITS, Visakhapatnam. Also running MSME 360 and Evergreen Equity Ecosystem.
+Junior Developer at National Compliance, Abu Dhabi, remote. B.Tech CSE from ANITS,
+Visakhapatnam. Also running MSME 360 and Evergreen Equity Ecosystem, and mentoring on
+Unstop and Topmate.
 
 I take focused engagements on vector search in Postgres: recall audits, filter-plan
 review, index and layout tuning. If your filtered vector queries are returning the
